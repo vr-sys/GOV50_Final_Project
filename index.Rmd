@@ -1,7 +1,7 @@
 ---
 title: "Gov 50 Final Project"
-author: "Your Name Here"
-description: "My final project"
+author: "Veronica Ruiz"
+description: "Possible topics for final project"
 output:
   distill::distill_article:
     self_contained: false
@@ -11,4 +11,4 @@ output:
 
 ## Project thoughts
 
-I am interested in exploring data related to...
+I am interested in data related to what factors influence mental health. I am especially interested in whether social or biological factors have the greatest influence. I am planning on narrowing down possible mitigating factors of mental illnesses - such as religion, family, income, overall physical health, and educational or economic opportunity - and observe whether or not they affect mental health in young college-aged individuals.  
