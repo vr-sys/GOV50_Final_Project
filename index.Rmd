@@ -8,12 +8,8 @@ output:
 ---
 
 
+## New Research Question for Milestone 2
 
-## Project thoughts
-
-I am interested in data related to what factors influence mental health. I am especially interested in whether social or biological factors have the greatest influence. I am planning on narrowing down possible mitigating factors of mental illnesses - such as religion, family, income, overall physical health, and educational or economic opportunity - and observe whether or not they affect mental health in young college-aged individuals.  
-
-New Research Question for Milestone 2
 
 Does opinion about the country's economic situation impact a willingness to accept cultural pluralism? 
 
@@ -27,6 +23,8 @@ If those who gave higher numbers for economic concern also answered no (or 2) fo
 library(tidyverse)
 library(haven)
 Politics <- read_sav("W82_Feb21/ATP W82.sav")
+
+Politics
 
 
 
